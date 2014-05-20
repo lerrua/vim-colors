@@ -1,6 +1,6 @@
 ## vim-colors
 
-A package of vim colorschemes collected from around the web and packaged into a repository suitable for use with [vunlde](https://github.com/gmarik/vundle) or [pathogen]()
+A package of vim colorschemes collected from around the web and packaged into a repository suitable for use with [vundle](https://github.com/gmarik/vundle) or [pathogen](https://github.com/tpope/vim-pathogen)
 
 ## Vundle
 
